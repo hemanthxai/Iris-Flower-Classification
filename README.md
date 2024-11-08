@@ -26,4 +26,4 @@ Run the Jupyter notebook or Python script to train and evaluate the model.
 <br>
 <br>
 **Note:**<br>
-The dataset used in this project is the classic Iris dataset, which contains 150 samples of Iris flowers, with 50 samples from each of the three species: Iris-setosa, Iris-versicolor, and Iris-virginica.
+The dataset used in this project is the classic Iris dataset, which contains 150 samples of Iris flowers, with 50 samples from each of the three species: Iris-setosa, Iris-versicolor, and Iris-virginica. Link for the Dataset https://www.kaggle.com/datasets/arshid/iris-flower-dataset
